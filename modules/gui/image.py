@@ -4,8 +4,6 @@ from ..read_json import *
 from .main_screen import *
 from ..weather_data import *
 
-# PIL (Pillow) - модуль для роботы с картинками
-
 class WeatherImage(ctk.CTkLabel):
     def __init__(self, width: int, height: int, master: ctk.CTk | ctk.CTkFrame, name_json: str, count: int = None):
         self.WIDTH = width

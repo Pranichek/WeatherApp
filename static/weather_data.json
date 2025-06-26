@@ -5,39 +5,39 @@
     },
     "weather": [
         {
-            "id": 802,
-            "main": "Clouds",
-            "description": "уривчасті хмари",
-            "icon": "03n"
+            "id": 800,
+            "main": "Clear",
+            "description": "чисте небо",
+            "icon": "01d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 13.85,
-        "feels_like": 12.86,
-        "temp_min": 13.85,
-        "temp_max": 13.85,
-        "pressure": 1014,
-        "humidity": 60,
-        "sea_level": 1014,
-        "grnd_level": 1002
+        "temp": 22.51,
+        "feels_like": 21.89,
+        "temp_min": 22.51,
+        "temp_max": 22.51,
+        "pressure": 1010,
+        "humidity": 41,
+        "sea_level": 1010,
+        "grnd_level": 999
     },
     "visibility": 10000,
     "wind": {
-        "speed": 2.88,
-        "deg": 197,
-        "gust": 4.72
+        "speed": 8.08,
+        "deg": 309,
+        "gust": 10.61
     },
     "clouds": {
-        "all": 44
+        "all": 3
     },
-    "dt": 1741971780,
+    "dt": 1750950259,
     "sys": {
         "country": "UA",
-        "sunrise": 1741924537,
-        "sunset": 1741966984
+        "sunrise": 1750901993,
+        "sunset": 1750959945
     },
-    "timezone": 7200,
+    "timezone": 10800,
     "id": 709930,
     "name": "Dnipro",
     "cod": 200
